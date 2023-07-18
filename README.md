@@ -1,8 +1,8 @@
 [![build-deploy](https://github.com/marianozunino/nestely/actions/workflows/release.yaml/badge.svg)](https://github.com/marianozunino/nestely/actions/workflows/release.yaml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Coverage Status](https://coveralls.io/repos/github/marianozunino/nestely/badge.svg)](https://coveralls.io/github/marianozunino/nestely)
-![npm type definitions](https://img.shields.io/npm/types/nestely4j)
-[![current-version](https://img.shields.io/badge/dynamic/json?label=current-version&query=%24.version&url=https%3A%2F%2Fraw.githubusercontent.com%2Fmarianozunino%2Fnestely%2Fmaster%2Fpackage.json)](https://npmjs.com/package/nestely4j)
+![npm type definitions](https://img.shields.io/npm/types/nestely)
+[![current-version](https://img.shields.io/badge/dynamic/json?label=current-version&query=%24.version&url=https%3A%2F%2Fraw.githubusercontent.com%2Fmarianozunino%2Fnestely%2Fmaster%2Fpackage.json)](https://npmjs.com/package/nestely)
 <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="25" alt="Nest Logo" /></a>
 
 ### Table of Contents
