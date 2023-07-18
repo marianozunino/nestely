@@ -36,6 +36,7 @@ jobs:
         run: |
           npm ci
           npm run build
+          npm run coverage
 
       - name: Semantic Release
         uses: cycjimmy/semantic-release-action@v3

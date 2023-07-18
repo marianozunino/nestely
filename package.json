@@ -44,7 +44,7 @@
     "rxjs": "^7.8.1"
   },
   "peerDependencies": {
-    "kysely": "0.26"
+    "kysely": "^0.x"
   },
   "devDependencies": {
     "@commitlint/cli": "^17.4.2",
